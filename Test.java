@@ -1,8 +1,9 @@
 import java.Util.Scanner;
 public class Test{
   public static void main(String[] args){
+	  Scanner sc = new Scanner(System.in);
 	  System.out.print("one more line");
 	  System.out.println("aur ek line");
-    System.out.println("chutiya Bnaying");
+	  System.out.println("chutiya Bnaying");
   }
 }
